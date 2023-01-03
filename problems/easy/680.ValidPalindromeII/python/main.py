@@ -27,6 +27,6 @@ def validPalindrome(s: str) -> bool:
 
 
 
-print("My answer for validWordAbbreviation(\"aba\") = " ,validPalindrome("aba"),     " and the right answer is True")
-print("My answer for validWordAbbreviation(\"abca\") = ", validPalindrome("abca") ,  " and the right answer is True")
-print("My answer for validWordAbbreviation(\"abc\") = " ,validPalindrome("abc"),     " and the right answer is False")
+print("My answer for validPalindrome(\"aba\") = " ,validPalindrome("aba"),     " and the right answer is True")
+print("My answer for validPalindrome(\"abca\") = ", validPalindrome("abca") ,  " and the right answer is True")
+print("My answer for validPalindrome(\"abc\") = " ,validPalindrome("abc"),     " and the right answer is False")

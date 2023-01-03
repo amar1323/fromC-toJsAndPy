@@ -23,8 +23,8 @@ bool validPalindrome(string s) {
 }
 
 int main() {
-    cout << "My answer for validWordAbbreviation(\"aba\") = " << validPalindrome("aba") << " and the right answer is 1" << endl;
-    cout << "My answer for validWordAbbreviation(\"abca\") = " << validPalindrome("abca") << " and the right answer is 1" << endl;
-    cout << "My answer for validWordAbbreviation(\"abc\") = " << validPalindrome("abc") << " and the right answer is 0" << endl;
+    cout << "My answer for validPalindrome(\"aba\") = " << validPalindrome("aba") << " and the right answer is 1" << endl;
+    cout << "My answer for validPalindrome(\"abca\") = " << validPalindrome("abca") << " and the right answer is 1" << endl;
+    cout << "My answer for validPalindrome(\"abc\") = " << validPalindrome("abc") << " and the right answer is 0" << endl;
     return 0;
 }

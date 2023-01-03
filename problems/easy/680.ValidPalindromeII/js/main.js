@@ -29,6 +29,6 @@ var validPalindrome = function(s) {
 };
 
 
-console.log("My answer for validWordAbbreviation(\"aba\") = " ,validPalindrome("aba"),     " and the right answer is true");
-console.log("My answer for validWordAbbreviation(\"abca\") = ", validPalindrome("abca") ,  " and the right answer is true");
-console.log("My answer for validWordAbbreviation(\"abc\") = " ,validPalindrome("abc"),     " and the right answer is false");
+console.log("My answer for validPalindrome(\"aba\") = " ,validPalindrome("aba"),     " and the right answer is true");
+console.log("My answer for validPalindrome(\"abca\") = ", validPalindrome("abca") ,  " and the right answer is true");
+console.log("My answer for validPalindrome(\"abc\") = " ,validPalindrome("abc"),     " and the right answer is false");
