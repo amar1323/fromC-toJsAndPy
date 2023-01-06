@@ -34,7 +34,7 @@ bool isBalanced(TreeNode* root) {
 int main() {
     TreeNode* root1 = new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)));
     TreeNode* root2 = new TreeNode(1, new TreeNode(2), new TreeNode(2, new TreeNode(3), new TreeNode(3, new TreeNode(4), new TreeNode(4, new TreeNode(5), new TreeNode(5)))));
-    TreeNode* root3=nullptr;
+    TreeNode* root3;
 
     cout << "My answer for isBalanced(root1) = " << isBalanced(root1)<< " and the right answer is 1" << endl;
     cout << "My answer for isBalanced(root2) = " << isBalanced(root2) << " and the right answer is 0" << endl;
