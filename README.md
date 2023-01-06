@@ -21,3 +21,4 @@ LeetCode problems
 |349|IntersectionofTwoArrays  | [C++](./problems/easy/349.IntersectionofTwoArrays/cpp/main.cpp), [Js](./problems/easy/349.IntersectionofTwoArrays/js/main.js),[Python](./problems/easy/349.IntersectionofTwoArrays/python/main.py)|Easy|
 |257|BinaryTreePaths  | [C++](./problems/easy/257.BinaryTreePaths/cpp/main.cpp), [Js](./problems/easy/257.BinaryTreePaths/js/main.js),[Python](./problems/easy/257.BinaryTreePaths/python/main.py)|Easy|
 |1863|SumofAllSubsetXORTotals| [C++](./problems/easy/1863.SumofAllSubsetXORTotals/cpp/main.cpp), [Js](./problems/easy/1863.SumofAllSubsetXORTotals/js/main.js),[Python](./problems/easy/1863.SumofAllSubsetXORTotals/python/main.py)|Easy|
+|551|StudentAttendanceRecordI| [C++](./problems/easy/551.StudentAttendanceRecordI/cpp/main.cpp), [Js](./problems/easy/551.StudentAttendanceRecordI/js/main.js),[Python](./problems/easy/551.StudentAttendanceRecordI/python/main.py)|Easy|
