@@ -24,3 +24,4 @@ LeetCode problems
 |551|StudentAttendanceRecordI| [C++](./problems/easy/551.StudentAttendanceRecordI/cpp/main.cpp), [Js](./problems/easy/551.StudentAttendanceRecordI/js/main.js),[Python](./problems/easy/551.StudentAttendanceRecordI/python/main.py)|Easy|
 |110|BalancedBinaryTree| [C++](./problems/easy/110.BalancedBinaryTree/cpp/main.cpp), [Js](./problems/easy/110.BalancedBinaryTree/js/main.js),[Python](./problems/easy/110.BalancedBinaryTree/python/main.py)|Easy|
 |226|InvertBinaryTree| [C++](./problems/easy/226.InvertBinaryTree/cpp/main.cpp), [Js](./problems/easy/226.InvertBinaryTree/js/main.js),[Python](./problems/easy/226.InvertBinaryTree/python/main.py)|Easy|
+|929|UniqueEmailAddresses| [C++](./problems/easy/929.UniqueEmailAddresses/cpp/main.cpp), [Js](./problems/easy/929.UniqueEmailAddresses/js/main.js),[Python](./problems/easy/929.UniqueEmailAddresses/python/main.py)|Easy|
