@@ -29,3 +29,4 @@ LeetCode problems
 |202|HappyNumber| [C++](./problems/easy/202.HappyNumber/cpp/main.cpp), [Js](./problems/easy/202.HappyNumber/js/main.js),[Python](./problems/easy/202.HappyNumber/python/main.py)|Easy|
 |760|FindAnagramMappings| [C++](./problems/easy/760.FindAnagramMappings/cpp/main.cpp), [Js](./problems/easy/760.FindAnagramMappings/js/main.js),[Python](./problems/easy/760.FindAnagramMappings/python/main.py)|Easy|
 |925|LongPressedName| [C++](./problems/easy/925.LongPressedName/cpp/main.cpp), [Js](./problems/easy/925.LongPressedName/js/main.js),[Python](./problems/easy/925.LongPressedName/python/main.py)|Easy|
+|1051|HeightChecker| [C++](./problems/easy/1051.HeightChecker/cpp/main.cpp), [Js](./problems/easy/1051.HeightChecker/js/main.js),[Python](./problems/easy/1051.HeightChecker/python/main.py)|Easy|
