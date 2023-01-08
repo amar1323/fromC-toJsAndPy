@@ -25,5 +25,6 @@ LeetCode problems
 |110|BalancedBinaryTree| [C++](./problems/easy/110.BalancedBinaryTree/cpp/main.cpp), [Js](./problems/easy/110.BalancedBinaryTree/js/main.js),[Python](./problems/easy/110.BalancedBinaryTree/python/main.py)|Easy|
 |226|InvertBinaryTree| [C++](./problems/easy/226.InvertBinaryTree/cpp/main.cpp), [Js](./problems/easy/226.InvertBinaryTree/js/main.js),[Python](./problems/easy/226.InvertBinaryTree/python/main.py)|Easy|
 |929|UniqueEmailAddresses| [C++](./problems/easy/929.UniqueEmailAddresses/cpp/main.cpp), [Js](./problems/easy/929.UniqueEmailAddresses/js/main.js),[Python](./problems/easy/929.UniqueEmailAddresses/python/main.py)|Easy|
-|234|PalindromeLinkedList/| [C++](./problems/easy/234.PalindromeLinkedList/cpp/main.cpp), [Js](./problems/easy/234.PalindromeLinkedList/js/main.js),[Python](./problems/easy/234.PalindromeLinkedList/python/main.py)|Easy|
-|202|HappyNumber/| [C++](./problems/easy/202.HappyNumber/cpp/main.cpp), [Js](./problems/easy/202.HappyNumber/js/main.js),[Python](./problems/easy/202.HappyNumber/python/main.py)|Easy|
+|234|PalindromeLinkedList| [C++](./problems/easy/234.PalindromeLinkedList/cpp/main.cpp), [Js](./problems/easy/234.PalindromeLinkedList/js/main.js),[Python](./problems/easy/234.PalindromeLinkedList/python/main.py)|Easy|
+|202|HappyNumber| [C++](./problems/easy/202.HappyNumber/cpp/main.cpp), [Js](./problems/easy/202.HappyNumber/js/main.js),[Python](./problems/easy/202.HappyNumber/python/main.py)|Easy|
+|760|FindAnagramMappings| [C++](./problems/easy/760.FindAnagramMappings/cpp/main.cpp), [Js](./problems/easy/760.FindAnagramMappings/js/main.js),[Python](./problems/easy/760.FindAnagramMappings/python/main.py)|Easy|
