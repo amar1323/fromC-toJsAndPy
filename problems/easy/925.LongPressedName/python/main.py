@@ -1,4 +1,3 @@
-from typing import List
 """
     Problem statement:
     Your friend is typing his name into a keyboard. Sometimes, when typing a character c, the key might get long pressed, and the character will be typed 1 or more times.
@@ -7,7 +6,7 @@ from typing import List
 """
 
 
-def isLongPressedName(name, typed):
+def isLongPressedName(name:str, typed:str)->bool:
     if len(typed) < len(name):
         return False
     i = 0
