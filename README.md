@@ -31,3 +31,4 @@ LeetCode problems
 |925|LongPressedName| [C++](./problems/easy/925.LongPressedName/cpp/main.cpp), [Js](./problems/easy/925.LongPressedName/js/main.js),[Python](./problems/easy/925.LongPressedName/python/main.py)|Easy|
 |1051|HeightChecker| [C++](./problems/easy/1051.HeightChecker/cpp/main.cpp), [Js](./problems/easy/1051.HeightChecker/js/main.js),[Python](./problems/easy/1051.HeightChecker/python/main.py)|Easy|
 |100|SameTree| [C++](./problems/easy/100.SameTree/cpp/main.cpp), [Js](./problems/easy/100.SameTree/js/main.js),[Python](./problems/easy/100.SameTree/python/main.py)|Easy|
+|482|LicenseKeyFormatting| [C++](./problems/easy/482.LicenseKeyFormatting/cpp/main.cpp), [Js](./problems/easy/482.LicenseKeyFormatting/js/main.js),[Python](./problems/easy/482.LicenseKeyFormatting/python/main.py)|Easy|
