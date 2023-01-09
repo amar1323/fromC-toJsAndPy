@@ -30,3 +30,4 @@ LeetCode problems
 |760|FindAnagramMappings| [C++](./problems/easy/760.FindAnagramMappings/cpp/main.cpp), [Js](./problems/easy/760.FindAnagramMappings/js/main.js),[Python](./problems/easy/760.FindAnagramMappings/python/main.py)|Easy|
 |925|LongPressedName| [C++](./problems/easy/925.LongPressedName/cpp/main.cpp), [Js](./problems/easy/925.LongPressedName/js/main.js),[Python](./problems/easy/925.LongPressedName/python/main.py)|Easy|
 |1051|HeightChecker| [C++](./problems/easy/1051.HeightChecker/cpp/main.cpp), [Js](./problems/easy/1051.HeightChecker/js/main.js),[Python](./problems/easy/1051.HeightChecker/python/main.py)|Easy|
+|100|SameTree| [C++](./problems/easy/100.SameTree/cpp/main.cpp), [Js](./problems/easy/100.SameTree/js/main.js),[Python](./problems/easy/100.SameTree/python/main.py)|Easy|
