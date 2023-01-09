@@ -1,4 +1,5 @@
 from collections import deque
+from typing import Optional, List
 """
     Problem statement:
     Given a binary tree, determine if it is height-balanced:
