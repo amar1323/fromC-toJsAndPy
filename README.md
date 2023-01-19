@@ -33,3 +33,4 @@ LeetCode problems
 |100|SameTree| [C++](./problems/easy/100.SameTree/cpp/main.cpp), [Js](./problems/easy/100.SameTree/js/main.js),[Python](./problems/easy/100.SameTree/python/main.py)|Easy|
 |482|LicenseKeyFormatting| [C++](./problems/easy/482.LicenseKeyFormatting/cpp/main.cpp), [Js](./problems/easy/482.LicenseKeyFormatting/js/main.js),[Python](./problems/easy/482.LicenseKeyFormatting/python/main.py)|Easy|
 |108|SortedArrayToBST| [C++](./problems/easy/108.SortedArrayToBST/cpp/main.cpp), [Js](./problems/easy/108.SortedArrayToBST/js/main.js),[Python](./problems/easy/108.SortedArrayToBST/python/main.py)|Easy|
+|94|BinaryTreeInorderTraversal| [C++](./problems/easy/94.BinaryTreeInorderTraversal/cpp/main.cpp), [Js](./problems/easy/94.BinaryTreeInorderTraversal/js/main.js),[Python](./problems/easy/94.BinaryTreeInorderTraversal/python/main.py)|Easy|
