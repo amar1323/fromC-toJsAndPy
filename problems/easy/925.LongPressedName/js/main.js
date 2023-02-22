@@ -22,13 +22,13 @@ function isLongPressedName(name, typed) {
         kn = i + 1;
         let countN = 1;
         const c = name[i];
-        while (c === name[kn]) {
+        while (kn < name.length && c === name[kn]) {
             kn++;
             countN++;
         }
         kt = j;
         let countT = 0;
-        while (c === typed[kt]) {
+        while (kt < typed.length && c === typed[kt]) {
             kt++;
             countT++;
         }

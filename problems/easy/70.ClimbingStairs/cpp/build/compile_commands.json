@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/amarelouazanituhami/Dev/fromC-toJsAndPy/problems/easy/cpp/70.ClimbingStairs/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -std=gnu++17 -o CMakeFiles/climbStairs.dir/main.cpp.o -c /Users/amarelouazanituhami/Dev/fromC-toJsAndPy/problems/easy/cpp/70.ClimbingStairs/main.cpp",
+  "file": "/Users/amarelouazanituhami/Dev/fromC-toJsAndPy/problems/easy/cpp/70.ClimbingStairs/main.cpp"
+}
+]

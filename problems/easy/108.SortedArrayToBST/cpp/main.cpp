@@ -51,7 +51,7 @@ int main() {
     vector<int> in2 = {1,2};
     auto ans1 = sortedArrayToBST(in1);
     auto ans2 = sortedArrayToBST(in2);
-    cout << "My answer for invertTree(in1) = " << ans1->print()<< " and the right answer is [0,-3,9,-10,5]" << endl;
-    cout << "My answer for invertTree(in2) = " << ans2->print() << " and the right answer is [2,1]" << endl;
+    cout << "My answer for invertTree(in1) = " << ans1->print()<< " and the right answer is [4,7,2,9,6,3,1]" << endl;
+    cout << "My answer for invertTree(in2) = " << ans2->print() << " and the right answer is [2,3,1]" << endl;
     return 0;
 }
