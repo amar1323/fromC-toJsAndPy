@@ -159,3 +159,12 @@ LeetCode problems
 |142|LinkedListCycleII| [C++](./problems/medium/142.LinkedListCycleII/cpp/main.cpp), [Js](./problems/medium/142.LinkedListCycleII/js/main.js),[Python](./problems/medium142.LinkedListCycleII/python/main.py)|Medium|
 |11|ContainerWithMostWater| [C++](./problems/medium/11.ContainerWithMostWater/cpp/main.cpp), [Js](./problems/medium/11.ContainerWithMostWater/js/main.js),[Python](./problems/medium11.ContainerWithMostWater/python/main.py)|Medium|
 |6|ZigzagConversion| [C++](./problems/medium/6.ZigzagConversion/cpp/main.cpp), [Js](./problems/medium/6.ZigzagConversion/js/main.js),[Python](./problems/medium6.ZigzagConversion/python/main.py)|Medium|
+|37|SudokuSolver| [C++](./problems/hard/37.SudokuSolver/cpp/main.cpp), [Js](./problems/hard/37.SudokuSolver/js/main.js),[Python](./problems/hard37.SudokuSolver/python/main.py)|Hard|
+|51|NQueens| [C++](./problems/hard/51.N-Queens/cpp/main.cpp), [Js](./problems/hard/51.N-Queens/js/main.js),[Python](./problems/hard51.N-Queens/python/main.py)|Hard|
+|52|NQueensII| [C++](./problems/hard/52.N-QueensII/cpp/main.cpp), [Js](./problems/hard/52.N-QueensII/js/main.js),[Python](./problems/hard52.N-QueensII/python/main.py)|Hard|
+|1255|MaximumScoreWordsFormedbyLetters| [C++](./problems/hard/1255.MaximumScoreWordsFormedbyLetters/cpp/main.cpp), [Js](./problems/hard/1255.MaximumScoreWordsFormedbyLetters/js/main.js),[Python](./problems/hard1255.MaximumScoreWordsFormedbyLetters/python/main.py)|Hard|
+|980|UniquePathsIII| [C++](./problems/hard/980.UniquePathsIII/cpp/main.cpp), [Js](./problems/hard/980.UniquePathsIII/js/main.js),[Python](./problems/hard980.UniquePathsIII/python/main.py)|Hard|
+|683|KEmptySlots| [C++](./problems/hard/683.KEmptySlots/cpp/main.cpp), [Js](./problems/hard/683.KEmptySlots/js/main.js),[Python](./problems/hard683.KEmptySlots/python/main.py)|Hard|
+|30|SubstringwithConcatenationofAllWords| [C++](./problems/hard/30.SubstringwithConcatenationofAllWords/cpp/main.cpp), [Js](./problems/hard/30.SubstringwithConcatenationofAllWords/js/main.js),[Python](./problems/hard30.SubstringwithConcatenationofAllWords/python/main.py)|Hard|
+|25|ReverseNodesinkGroup| [C++](./problems/hard/25.ReverseNodesink-Group/cpp/main.cpp), [Js](./problems/hard/25.ReverseNodesink-Group/js/main.js),[Python](./problems/hard25.ReverseNodesink-Group/python/main.py)|Hard|
+|23|MergekSortedLists| [C++](./problems/hard/23.MergekSortedLists/cpp/main.cpp), [Js](./problems/hard/23.MergekSortedLists/js/main.js),[Python](./problems/hard23.MergekSortedLists/python/main.py)|Hard|
