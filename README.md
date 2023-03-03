@@ -34,12 +34,12 @@ LeetCode problems
 |482|LicenseKeyFormatting| [C++](./problems/easy/482.LicenseKeyFormatting/cpp/main.cpp), [Js](./problems/easy/482.LicenseKeyFormatting/js/main.js),[Python](./problems/easy/482.LicenseKeyFormatting/python/main.py)|Easy|
 |108|SortedArrayToBST| [C++](./problems/easy/108.SortedArrayToBST/cpp/main.cpp), [Js](./problems/easy/108.SortedArrayToBST/js/main.js),[Python](./problems/easy/108.SortedArrayToBST/python/main.py)|Easy|
 |94|BinaryTreeInorderTraversal| [C++](./problems/easy/94.BinaryTreeInorderTraversal/cpp/main.cpp), [Js](./problems/easy/94.BinaryTreeInorderTraversal/js/main.js),[Python](./problems/easy/94.BinaryTreeInorderTraversal/python/main.py)|Easy|
-|268|MissingNumber+++++++++++++++| [C++](./problems/easy/268.MissingNumber/cpp/main.cpp), [Js](./problems/easy/268.MissingNumber/js/main.js),[Python](./problems/easy268.MissingNumber/python/main.py)|Easy|
+|268|MissingNumber [C++](./problems/easy/268.MissingNumber/cpp/main.cpp), [Js](./problems/easy/268.MissingNumber/js/main.js),[Python](./problems/easy268.MissingNumber/python/main.py)|Easy|
 |20|ValidParentheses| [C++](./problems/easy/20.ValidParentheses/cpp/main.cpp), [Js](./problems/easy/20.ValidParentheses/js/main.js),[Python](./problems/easy20.ValidParentheses/python/main.py)|Easy|
 |118|PascalsTriangle| [C++](./problems/easy/118.PascalsTriangle/cpp/main.cpp), [Js](./problems/easy/118.PascalsTriangle/js/main.js),[Python](./problems/easy118.PascalsTriangle/python/main.py)|Easy|
 |190|ReverseBits| [C++](./problems/easy/190.ReverseBits/cpp/main.cpp), [Js](./problems/easy/190.ReverseBits/js/main.js),[Python](./problems/easy190.ReverseBits/python/main.py)|Easy|
 |461|HammingDistance| [C++](./problems/easy/461.HammingDistance/cpp/main.cpp), [Js](./problems/easy/461.HammingDistance/js/main.js),[Python](./problems/easy461.HammingDistance/python/main.py)|Easy|
-|1911|NumberofBits| [C++](./problems/easy/191.Numberof1Bits/cpp/main.cpp), [Js](./problems/easy/191.Numberof1Bits/js/main.js),[Python](./problems/easy191.Numberof1Bits/python/main.py)|Easy|
+|191|NumberofBits| [C++](./problems/easy/191.Numberof1Bits/cpp/main.cpp), [Js](./problems/easy/191.Numberof1Bits/js/main.js),[Python](./problems/easy191.Numberof1Bits/python/main.py)|Easy|
 |326|PowerofThree| [C++](./problems/easy/326.PowerofThree/cpp/main.cpp), [Js](./problems/easy/326.PowerofThree/js/main.js),[Python](./problems/easy326.PowerofThree/python/main.py)|Easy|
 |412|FizzBuzz| [C++](./problems/easy/412.FizzBuzz/cpp/main.cpp), [Js](./problems/easy/412.FizzBuzz/js/main.js),[Python](./problems/easy412.FizzBuzz/python/main.py)|Easy|
 |121|BestTimetoBuyandSellStock| [C++](./problems/easy/121.BestTimetoBuyandSellStock/cpp/main.cpp), [Js](./problems/easy/121.BestTimetoBuyandSellStock/js/main.js),[Python](./problems/easy121.BestTimetoBuyandSellStock/python/main.py)|Easy|
@@ -48,7 +48,7 @@ LeetCode problems
 |101|SymmetricTree| [C++](./problems/easy/101.SymmetricTree/cpp/main.cpp), [Js](./problems/easy/101.SymmetricTree/js/main.js),[Python](./problems/easy101.SymmetricTree/python/main.py)|Easy|
 |104|MaximumDepthofBinaryTree| [C++](./problems/easy/104.MaximumDepthofBinaryTree/cpp/main.cpp), [Js](./problems/easy/104.MaximumDepthofBinaryTree/js/main.js),[Python](./problems/easy104.MaximumDepthofBinaryTree/python/main.py)|Easy|
 |141|LinkedListCycle| [C++](./problems/easy/141.LinkedListCycle/cpp/main.cpp), [Js](./problems/easy/141.LinkedListCycle/js/main.js),[Python](./problems/easy141.LinkedListCycle/python/main.py)|Easy|
-|206|ReverseLinkedList| [C++](./problems/easy/206.ReverseLinkedList/cpp/main.cpp), [Js](./problems/easy/206.ReverseLinkedList/js/main.js),[Python](./problems/easy206.ReverseLinkedList/python/main.py)|Easy|
+|206|ReverseLinkedList+++++++++++++| [C++](./problems/easy/206.ReverseLinkedList/cpp/main.cpp), [Js](./problems/easy/206.ReverseLinkedList/js/main.js),[Python](./problems/easy206.ReverseLinkedList/python/main.py)|Easy|
 |1046|LastStoneWeight| [C++](./problems/easy/1046.LastStoneWeight/cpp/main.cpp), [Js](./problems/easy/1046.LastStoneWeight/js/main.js),[Python](./problems/easy1046.LastStoneWeight/python/main.py)|Easy|
 |242|ValidAnagram| [C++](./problems/easy/242.ValidAnagram/cpp/main.cpp), [Js](./problems/easy/242.ValidAnagram/js/main.js),[Python](./problems/easy242.ValidAnagram/python/main.py)|Easy|
 |387|FirstUniqueCharacterinaString| [C++](./problems/easy/387.FirstUniqueCharacterinaString/cpp/main.cpp), [Js](./problems/easy/387.FirstUniqueCharacterinaString/js/main.js),[Python](./problems/easy387.FirstUniqueCharacterinaString/python/main.py)|Easy|
