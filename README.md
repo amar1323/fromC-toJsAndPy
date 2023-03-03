@@ -34,7 +34,7 @@ LeetCode problems
 |482|LicenseKeyFormatting| [C++](./problems/easy/482.LicenseKeyFormatting/cpp/main.cpp), [Js](./problems/easy/482.LicenseKeyFormatting/js/main.js),[Python](./problems/easy/482.LicenseKeyFormatting/python/main.py)|Easy|
 |108|SortedArrayToBST| [C++](./problems/easy/108.SortedArrayToBST/cpp/main.cpp), [Js](./problems/easy/108.SortedArrayToBST/js/main.js),[Python](./problems/easy/108.SortedArrayToBST/python/main.py)|Easy|
 |94|BinaryTreeInorderTraversal| [C++](./problems/easy/94.BinaryTreeInorderTraversal/cpp/main.cpp), [Js](./problems/easy/94.BinaryTreeInorderTraversal/js/main.js),[Python](./problems/easy/94.BinaryTreeInorderTraversal/python/main.py)|Easy|
-|268|MissingNumber [C++](./problems/easy/268.MissingNumber/cpp/main.cpp), [Js](./problems/easy/268.MissingNumber/js/main.js),[Python](./problems/easy268.MissingNumber/python/main.py)|Easy|
+|268|MissingNumber| [C++](./problems/easy/268.MissingNumber/cpp/main.cpp), [Js](./problems/easy/268.MissingNumber/js/main.js),[Python](./problems/easy268.MissingNumber/python/main.py)|Easy|
 |20|ValidParentheses| [C++](./problems/easy/20.ValidParentheses/cpp/main.cpp), [Js](./problems/easy/20.ValidParentheses/js/main.js),[Python](./problems/easy20.ValidParentheses/python/main.py)|Easy|
 |118|PascalsTriangle| [C++](./problems/easy/118.PascalsTriangle/cpp/main.cpp), [Js](./problems/easy/118.PascalsTriangle/js/main.js),[Python](./problems/easy118.PascalsTriangle/python/main.py)|Easy|
 |190|ReverseBits| [C++](./problems/easy/190.ReverseBits/cpp/main.cpp), [Js](./problems/easy/190.ReverseBits/js/main.js),[Python](./problems/easy190.ReverseBits/python/main.py)|Easy|
