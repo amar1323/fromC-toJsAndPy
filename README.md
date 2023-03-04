@@ -75,7 +75,7 @@ LeetCode problems
 |338|CountingBits| [C++](./problems/easy/338.CountingBits/cpp/main.cpp), [Js](./problems/easy/338.CountingBits/js/main.js),[Python](./problems/easy338.CountingBits/python/main.py)|Easy|
 |724|FindPivotIndex| [C++](./problems/easy/724.FindPivotIndex/cpp/main.cpp), [Js](./problems/easy/724.FindPivotIndex/js/main.js),[Python](./problems/easy724.FindPivotIndex/python/main.py)|Easy|
 |14801|RunningSumofdArray| [C++](./problems/easy/1480.RunningSumof1dArray/cpp/main.cpp), [Js](./problems/easy/1480.RunningSumof1dArray/js/main.js),[Python](./problems/easy1480.RunningSumof1dArray/python/main.py)|Easy|
-|9|PalindromeNumber+++++++++++++|| [C++](./problems/easy/9.PalindromeNumber/cpp/main.cpp), [Js](./problems/easy/9.PalindromeNumber/js/main.js),[Python](./problems/easy9.PalindromeNumber/python/main.py)|Easy|
+|9|PalindromeNumber+++++++++++++| [C++](./problems/easy/9.PalindromeNumber/cpp/main.cpp), [Js](./problems/easy/9.PalindromeNumber/js/main.js),[Python](./problems/easy9.PalindromeNumber/python/main.py)|Easy|
 |1861|RotatingtheBox| [C++](./problems/medium/1861.RotatingtheBox/cpp/main.cpp), [Js](./problems/medium/1861.RotatingtheBox/js/main.js),[Python](./problems/medium1861.RotatingtheBox/python/main.py)|Medium|
 |1721|SwappingNodesinaLinkedList| [C++](./problems/medium/1721.SwappingNodesinaLinkedList/cpp/main.cpp), [Js](./problems/medium/1721.SwappingNodesinaLinkedList/js/main.js),[Python](./problems/medium1721.SwappingNodesinaLinkedList/python/main.py)|Medium|
 |2330|ValidPalindromeIV| [C++](./problems/medium/2330.ValidPalindromeIV/cpp/main.cpp), [Js](./problems/medium/2330.ValidPalindromeIV/js/main.js),[Python](./problems/medium2330.ValidPalindromeIV/python/main.py)|Medium|
