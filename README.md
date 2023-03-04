@@ -57,7 +57,7 @@ LeetCode problems
 |350|IntersectionofTwoArraysII| [C++](./problems/easy/350.IntersectionofTwoArraysII/cpp/main.cpp), [Js](./problems/easy/350.IntersectionofTwoArraysII/js/main.js),[Python](./problems/easy350.IntersectionofTwoArraysII/python/main.py)|Easy|
 |136|SingleNumber| [C++](./problems/easy/136.SingleNumber/cpp/main.cpp), [Js](./problems/easy/136.SingleNumber/js/main.js),[Python](./problems/easy136.SingleNumber/python/main.py)|Easy|
 |217|ContainsDuplicate| [C++](./problems/easy/217.ContainsDuplicate/cpp/main.cpp), [Js](./problems/easy/217.ContainsDuplicate/js/main.js),[Python](./problems/easy217.ContainsDuplicate/python/main.py)|Easy|
-|26|RemoveDuplicatesfromSortedArray| [C++](./problems/easy/26.RemoveDuplicatesfromSortedArray/cpp/main.cpp), [Js](./problems/easy/26.RemoveDuplicatesfromSortedArray/js/main.js),[Python](./problems/easy26.RemoveDuplicatesfromSortedArray/python/main.py)|Easy|
+|26|RemoveDuplicatesfromSortedArray+++++++++++++| [C++](./problems/easy/26.RemoveDuplicatesfromSortedArray/cpp/main.cpp), [Js](./problems/easy/26.RemoveDuplicatesfromSortedArray/js/main.js),[Python](./problems/easy26.RemoveDuplicatesfromSortedArray/python/main.py)|Easy|
 |132369|MaximumNumber| [C++](./problems/easy/1323.Maximum69Number/cpp/main.cpp), [Js](./problems/easy/1323.Maximum69Number/js/main.js),[Python](./problems/easy1323.Maximum69Number/python/main.py)|Easy|
 |844|BackspaceStringCompare| [C++](./problems/easy/844.BackspaceStringCompare/cpp/main.cpp), [Js](./problems/easy/844.BackspaceStringCompare/js/main.js),[Python](./problems/easy844.BackspaceStringCompare/python/main.py)|Easy|
 |1|TwoSum| [C++](./problems/easy/1.TwoSum/cpp/main.cpp), [Js](./problems/easy/1.TwoSum/js/main.js),[Python](./problems/easy1.TwoSum/python/main.py)|Easy|
@@ -75,7 +75,7 @@ LeetCode problems
 |338|CountingBits| [C++](./problems/easy/338.CountingBits/cpp/main.cpp), [Js](./problems/easy/338.CountingBits/js/main.js),[Python](./problems/easy338.CountingBits/python/main.py)|Easy|
 |724|FindPivotIndex| [C++](./problems/easy/724.FindPivotIndex/cpp/main.cpp), [Js](./problems/easy/724.FindPivotIndex/js/main.js),[Python](./problems/easy724.FindPivotIndex/python/main.py)|Easy|
 |14801|RunningSumofdArray| [C++](./problems/easy/1480.RunningSumof1dArray/cpp/main.cpp), [Js](./problems/easy/1480.RunningSumof1dArray/js/main.js),[Python](./problems/easy1480.RunningSumof1dArray/python/main.py)|Easy|
-|9|PalindromeNumber| [C++](./problems/easy/9.PalindromeNumber/cpp/main.cpp), [Js](./problems/easy/9.PalindromeNumber/js/main.js),[Python](./problems/easy9.PalindromeNumber/python/main.py)|Easy|
+|9|PalindromeNumber+++++++++++++|| [C++](./problems/easy/9.PalindromeNumber/cpp/main.cpp), [Js](./problems/easy/9.PalindromeNumber/js/main.js),[Python](./problems/easy9.PalindromeNumber/python/main.py)|Easy|
 |1861|RotatingtheBox| [C++](./problems/medium/1861.RotatingtheBox/cpp/main.cpp), [Js](./problems/medium/1861.RotatingtheBox/js/main.js),[Python](./problems/medium1861.RotatingtheBox/python/main.py)|Medium|
 |1721|SwappingNodesinaLinkedList| [C++](./problems/medium/1721.SwappingNodesinaLinkedList/cpp/main.cpp), [Js](./problems/medium/1721.SwappingNodesinaLinkedList/js/main.js),[Python](./problems/medium1721.SwappingNodesinaLinkedList/python/main.py)|Medium|
 |2330|ValidPalindromeIV| [C++](./problems/medium/2330.ValidPalindromeIV/cpp/main.cpp), [Js](./problems/medium/2330.ValidPalindromeIV/js/main.js),[Python](./problems/medium2330.ValidPalindromeIV/python/main.py)|Medium|
