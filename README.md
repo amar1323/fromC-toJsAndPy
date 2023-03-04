@@ -48,7 +48,7 @@ LeetCode problems
 |101|SymmetricTree| [C++](./problems/easy/101.SymmetricTree/cpp/main.cpp), [Js](./problems/easy/101.SymmetricTree/js/main.js),[Python](./problems/easy101.SymmetricTree/python/main.py)|Easy|
 |104|MaximumDepthofBinaryTree| [C++](./problems/easy/104.MaximumDepthofBinaryTree/cpp/main.cpp), [Js](./problems/easy/104.MaximumDepthofBinaryTree/js/main.js),[Python](./problems/easy104.MaximumDepthofBinaryTree/python/main.py)|Easy|
 |141|LinkedListCycle| [C++](./problems/easy/141.LinkedListCycle/cpp/main.cpp), [Js](./problems/easy/141.LinkedListCycle/js/main.js),[Python](./problems/easy141.LinkedListCycle/python/main.py)|Easy|
-|206|ReverseLinkedList+++++++++++++| [C++](./problems/easy/206.ReverseLinkedList/cpp/main.cpp), [Js](./problems/easy/206.ReverseLinkedList/js/main.js),[Python](./problems/easy206.ReverseLinkedList/python/main.py)|Easy|
+|206|ReverseLinkedList| [C++](./problems/easy/206.ReverseLinkedList/cpp/main.cpp), [Js](./problems/easy/206.ReverseLinkedList/js/main.js),[Python](./problems/easy206.ReverseLinkedList/python/main.py)|Easy|
 |1046|LastStoneWeight| [C++](./problems/easy/1046.LastStoneWeight/cpp/main.cpp), [Js](./problems/easy/1046.LastStoneWeight/js/main.js),[Python](./problems/easy1046.LastStoneWeight/python/main.py)|Easy|
 |242|ValidAnagram| [C++](./problems/easy/242.ValidAnagram/cpp/main.cpp), [Js](./problems/easy/242.ValidAnagram/js/main.js),[Python](./problems/easy242.ValidAnagram/python/main.py)|Easy|
 |387|FirstUniqueCharacterinaString| [C++](./problems/easy/387.FirstUniqueCharacterinaString/cpp/main.cpp), [Js](./problems/easy/387.FirstUniqueCharacterinaString/js/main.js),[Python](./problems/easy387.FirstUniqueCharacterinaString/python/main.py)|Easy|
@@ -56,7 +56,7 @@ LeetCode problems
 |283|MoveZeroes| [C++](./problems/easy/283.MoveZeroes/cpp/main.cpp), [Js](./problems/easy/283.MoveZeroes/js/main.js),[Python](./problems/easy283.MoveZeroes/python/main.py)|Easy|
 |350|IntersectionofTwoArraysII| [C++](./problems/easy/350.IntersectionofTwoArraysII/cpp/main.cpp), [Js](./problems/easy/350.IntersectionofTwoArraysII/js/main.js),[Python](./problems/easy350.IntersectionofTwoArraysII/python/main.py)|Easy|
 |136|SingleNumber| [C++](./problems/easy/136.SingleNumber/cpp/main.cpp), [Js](./problems/easy/136.SingleNumber/js/main.js),[Python](./problems/easy136.SingleNumber/python/main.py)|Easy|
-|217|ContainsDuplicate| [C++](./problems/easy/217.ContainsDuplicate/cpp/main.cpp), [Js](./problems/easy/217.ContainsDuplicate/js/main.js),[Python](./problems/easy217.ContainsDuplicate/python/main.py)|Easy|
+|217|ContainsDuplicate+++++++++++++| [C++](./problems/easy/217.ContainsDuplicate/cpp/main.cpp), [Js](./problems/easy/217.ContainsDuplicate/js/main.js),[Python](./problems/easy217.ContainsDuplicate/python/main.py)|Easy|
 |26|RemoveDuplicatesfromSortedArray| [C++](./problems/easy/26.RemoveDuplicatesfromSortedArray/cpp/main.cpp), [Js](./problems/easy/26.RemoveDuplicatesfromSortedArray/js/main.js),[Python](./problems/easy26.RemoveDuplicatesfromSortedArray/python/main.py)|Easy|
 |132369|MaximumNumber| [C++](./problems/easy/1323.Maximum69Number/cpp/main.cpp), [Js](./problems/easy/1323.Maximum69Number/js/main.js),[Python](./problems/easy1323.Maximum69Number/python/main.py)|Easy|
 |844|BackspaceStringCompare| [C++](./problems/easy/844.BackspaceStringCompare/cpp/main.cpp), [Js](./problems/easy/844.BackspaceStringCompare/js/main.js),[Python](./problems/easy844.BackspaceStringCompare/python/main.py)|Easy|
